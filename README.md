@@ -2,10 +2,10 @@
 
 Aspiring Data Scientist | Python | SQL | Machine Learning | Frontend Developer
 
-🔭 I’m currently working on end-to-end data science projects using Python, Pandas, and Scikit-learn.
-🌱 I’m learning advanced SQL, machine learning algorithms, and data visualization.
-💬 Ask me about data analysis, building ML models, and web development.
-📫 How to reach me: gargyukti112@gmail.com | [LinkedIn](https://www.linkedin.com/in/yukti-garg-8397b4218/)
+- 🔭 I’m currently working on end-to-end data science projects using Python, Pandas, and Scikit-learn.
+- 🌱 I’m learning advanced SQL, machine learning algorithms, and data visualization.
+- 💬 Ask me about data analysis, building ML models, and web development.
+- 📫 How to reach me: gargyukti112@gmail.com | [LinkedIn](https://www.linkedin.com/in/yukti-garg-8397b4218/)
 
 
 
