@@ -1,10 +1,10 @@
 # Hi, I'm Yukti Garg 👋
 
-Aspiring Data Scientist | Python | SQL | Power BI | Machine Learning | Frontend Developer
+Aspiring Data Scientist | Python | SQL | Power BI | Machine Learning
 
 - 🔭 I’m currently working on end-to-end data science projects using Python, Pandas, and Scikit-learn.
-- 🌱 I’m learning advanced SQL, machine learning algorithms, and data visualization.
-- 💬 Ask me about data analysis, building ML models, and web development.
+- 🌱 I’m learning advanced SQL, machine learning algorithms and NLP.
+- 💬 Ask me about data analysis, data visualization, building ML models, and web development.
 - 🛠️ Tools: Python, Pandas, NumPy, Matplotlib, Scikit-learn, SQL , Power BI.
 - 📫 How to reach me: gargyukti112@gmail.com | [LinkedIn](https://www.linkedin.com/in/yukti-garg-8397b4218/)
 
