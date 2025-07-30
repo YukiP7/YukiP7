@@ -1,6 +1,6 @@
 # Hi, I'm Yukti Garg 👋
 
-Aspiring Data Scientist | Python | SQL | Power BI | Machine Learning
+Aspiring Data Analyst | Python | SQL | Power BI | Machine Learning
 
 - 🔭 I’m currently working on end-to-end data science projects using Python, Pandas, and Scikit-learn.
 - 🌱 I’m learning advanced SQL, machine learning algorithms and NLP.
